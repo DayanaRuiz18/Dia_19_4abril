@@ -1,0 +1,17 @@
+El contenido del archivo 1 es:
+Fechas:
+10/11/2021
+3/2/2021
+
+El contenido del archivo 1 en formato de fechas es:
+
+Fecha 1:
+2021-11-10
+Fecha 2:
+2021-02-03
+
+Si sumamos 100 días a la fecha 1 obtenemos la fecha:
+2022-02-18
+
+Si sumamos 50 días a la fecha 2 obtenemos la fecha:
+2020-08-06

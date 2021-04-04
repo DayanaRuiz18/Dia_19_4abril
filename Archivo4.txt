@@ -1,0 +1,17 @@
+El contenido del archivo 2 es:
+Fechas:
+5/8/2020
+17/6/2020
+
+El contenido del archivo 2 en formato de fechas es:
+
+Fecha 1:
+2020-08-05
+Fecha 2:
+2020-06-17
+
+Si restamos la fecha 1 a la fecha actual obtenemos que han trancurrido
+242 days, 0:00:00
+
+Si restamos la fecha 2 a la fecha actual obtenemos que han trancurrido
+291 days, 0:00:00
